@@ -7,7 +7,6 @@
 ### 🎮 Unity / Game Development
 
 Имею около **2 лет опыта работы с Unity** и разработки на **C#**.
-
 * Разработка на **C#**
 * Принципы **SOLID**
 * Работа с **SRP (Scriptable Render Pipeline)**
@@ -29,6 +28,11 @@
 🔗 [Сайт проекта](https://russianneighbor.github.io/RussianNeighbor-definitive-edition/)
 🔗 [Страница игры в RuStore](https://www.rustore.ru/catalog/app/com.ROBIKGames.RNDefintiveEdition)
 
+### 🎮 Roblox Studio / Lua
+<img width="1016" height="871" alt="Снимок экрана 2026-08-19 145750" src="https://github.com/user-attachments/assets/b691e608-b1d5-496c-91a6-a6129a3780de" />
+
+Работал с движком игры для создания **приключенческой игры** 
+🔗 [Страница игры в Roblox](https://www.roblox.com/games/9092735544/Get-a-snack-at-4-am)
 ---
 
 ### 🐍 Python
