@@ -130,7 +130,6 @@
 
 <img width="512" height="512" alt="3D-модель барного стула" src="https://github.com/user-attachments/assets/30c3e296-40f0-494b-882b-2ee895083d95" />
 
----
 
 ## 📚 Сейчас изучаю
 
