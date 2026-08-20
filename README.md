@@ -12,7 +12,6 @@
 
 * Разработка на **C#**
 * Принципы **SOLID**
-* Работа с **SRP (Scriptable Render Pipeline)**
 * Работа с **URP (Universal Render Pipeline)**
 * Разработка игровых механик
 * Создание пользовательских интерфейсов (UI)
@@ -30,10 +29,10 @@
 Игра была опубликована в **RuStore**.
 
 **Страница игры в RuStore:**
-🔗 https://www.rustore.ru/catalog/app/com.ROBIKGames.RNDefintiveEdition
+🔗 [Открыть ссылку](https://www.rustore.ru/catalog/app/com.ROBIKGames.RNDefintiveEdition)
 
 **Сайт проекта:**
-🔗 https://russianneighbor.github.io/RussianNeighbor-definitive-edition/
+🔗 [Открыть ссылку](https://russianneighbor.github.io/RussianNeighbor-definitive-edition/)
 
 
 ---
@@ -45,7 +44,7 @@
 Работал над созданием и разработкой игровой логики для приключенческих проектов.
 
 **Пример проекта:**
-🔗 https://www.roblox.com/games/9092735544/Get-a-snack-at-4-am
+🔗 [Открыть ссылку](https://www.roblox.com/games/9092735544/Get-a-snack-at-4-am)
 
 <img width="1016" height="871" alt="Снимок экрана 2026-08-19 145750" src="https://github.com/user-attachments/assets/b691e608-b1d5-496c-91a6-a6129a3780de" />
 
@@ -63,9 +62,9 @@
 
 Приложение поддерживает сохранение настроек между запусками и корректное завершение Telegram-сессии.
 
-Основная логика очистки выполняется простым алгоритмом. Пользователь может остановить процесс в любой момент, а приложение ведёт журнал выполненных операций.
+Основная логика очистки выполняется простым алгоритмом. Пользователь может остановить процесс в любой момент, а приложение ведёт журнал выполненных действий.
 
-> Проект разработан с помощью Codex и стал для меня практическим опытом работы с Python, GUI и API.
+> В разработке мне помогал Codex и стал для меня практическим опытом работы с Python, GUI и API.
 
 ---
 
@@ -80,7 +79,7 @@
 #### ⬆️ Пример Web Devolopment - Сайт игры
 
 В качестве примера веб-разработки можно выделить **Сайт проекта:**
-🔗 https://russianneighbor.github.io/RussianNeighbor-definitive-edition/.
+🔗 [Открыть ссылку](https://russianneighbor.github.io/RussianNeighbor-definitive-edition/.)
 
 Это официальный сайт проекта, предназначенный для знакомства с игрой и возможностью её скачать.
 
@@ -94,7 +93,7 @@
 <img width="1280" height="723" alt="photo_2026-07-25_23-55-21" src="https://github.com/user-attachments/assets/e8f2336f-236c-49b2-8667-773ae687b365" />
 
 
-> Сайт разработан с помощью Codex с использованием HTML, CSS и JavaScript.
+> В создании сайта на HTML, CSS и JavaScript помогал Codex.
 Для разработки использую **Visual Studio Code**.
 
 ---
@@ -111,6 +110,8 @@
 * использовать `push` и `pull`;
 * просматривать историю изменений;
 * вести и поддерживать проекты с помощью Git и GitHub.
+
+**Использовал GitHub для хранения репозиториев **
 
 ---
 
@@ -137,7 +138,7 @@
 * **C#**
 * архитектуру программ;
 * Git и GitHub;
-* основы принципы ООП.
+* основы принципов ООП.
 
 ---
 
