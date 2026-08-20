@@ -88,9 +88,8 @@
 
 Использовал Blender для подготовки 3D-контента и интеграции моделей в игровые проекты.
 Например дом для игры и барный стул:
-<img width="512" height="512" alt="Снимок экрана 2026-08-20 155628" src="https://github.com/user-attachments/assets/431dad75-63a7-4734-825c-2771edd70536" />
+<img width="512" height="512" alt="Снимок экрана 2026-08-20 155628" src="https://github.com/user-attachments/assets/431dad75-63a7-4734-825c-2771edd70536" /> <img width="512" height="512" alt="Снимок экрана 2026-08-19 145355" src="https://github.com/user-attachments/assets/30c3e296-40f0-494b-882b-2ee895083d95" />
 
-<img width="512" height="512" alt="Снимок экрана 2026-08-19 145355" src="https://github.com/user-attachments/assets/30c3e296-40f0-494b-882b-2ee895083d95" />
 
 
 ---
